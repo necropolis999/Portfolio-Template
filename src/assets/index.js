@@ -24,19 +24,19 @@ import send from './icons/send.png';
 import sendHover from './icons/sendHover.png';
 
 import css from './tech/css.png';
-import docker from './tech/docker.png';
-import figma from './tech/figma.png';
+import flask from './tech/flask.png';
+import django from './tech/django.png';
 import git from './tech/git.png';
 import html from './tech/html.png';
 import javascript from './tech/javascript.png';
 import nodejs from './tech/nodejs.png';
 import reactjs from './tech/reactjs.png';
-import redux from './tech/redux.png';
+import angularjs from './tech/angularjs.png';
 import tailwind from './tech/tailwind.png';
 import typescript from './tech/typescript.png';
-import graphql from './tech/graphql.png';
-import postgresql from './tech/postgresql.png';
-import rubyrails from './tech/rubyrails.png';
+import python from './tech/python.png';
+import php from './tech/php.png';
+import csharp from './tech/csharp.png';
 
 import coverhunt from './company/coverhunt.png';
 import dcc from './company/dcc.png';
@@ -73,17 +73,17 @@ export {
   send,
   sendHover,
   css,
-  docker,
-  figma,
+  flask,
+  django,
   git,
-  graphql,
+  csharp,
   html,
   javascript,
   nodejs,
-  postgresql,
-  rubyrails,
+  python,
+  php,
   reactjs,
-  redux,
+  angularjs,
   tailwind,
   typescript,
   komikult,
