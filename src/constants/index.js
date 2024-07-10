@@ -156,34 +156,34 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'KomiKult',
-    description: 'A comic characters list app that displays Marvel characters.',
+    name: 'MATCH',
+    description: 'Integrating with Sharepoint via REST, and directly with 3rd party cabinet software, MATCH was able to analyze a project and instantly create accurate orders from vendors, tickets for the various departments responsible for manufacturing, and update important project management data. Management could remotely coordinate documents and provide the different approvals needed while keeping accurate production timelines.',
     tags: [
       {
-        name: 'react',
+        name: 'sharepoint',
         color: 'blue-text-gradient',
       },
       {
-        name: 'mongodb',
+        name: 'dash',
         color: 'green-text-gradient',
       },
       {
-        name: 'tailwind',
+        name: 'restapi',
         color: 'pink-text-gradient',
       },
     ],
     image: komikult,
-    repo: 'https://github.com/shaqdeff/KomiKult',
-    demo: 'https://shaqdeff.github.io/KomiKult/',
+    repo: '',
+    demo: '',
   },
   {
     id: 'project-2',
-    name: 'Leaderboard',
+    name: 'New Country',
     description:
-      'A leaderboard list app that displays scores submitted by different players.',
+      'A large chain of used car dealerships had an application for keeping track of vehicle fuel orders. This was expanded to allow for monitoring of detailing and repair orders, car photos, and automated reporting.',
     tags: [
       {
-        name: 'react',
+        name: 'php',
         color: 'blue-text-gradient',
       },
       {
@@ -196,20 +196,20 @@ const projects = [
       },
     ],
     image: leaderboard,
-    repo: 'https://github.com/shaqdeff/Leaderboard',
-    demo: 'https://shaqdeff.github.io/Leaderboard/',
+    repo: '',
+    demo: '',
   },
   {
     id: 'project-3',
-    name: 'Math Magicians',
-    description: 'This is a single-page calculator app built with React',
+    name: 'Hospitality House',
+    description: 'A private support forum for alumni of a rehabilitation program. Needed extensive modification for privacy and legal protections of users, hotlines for support staff, and strict user security. Automated communications.',
     tags: [
       {
-        name: 'nextjs',
+        name: 'wordpress',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'php',
         color: 'green-text-gradient',
       },
       {
@@ -218,20 +218,20 @@ const projects = [
       },
     ],
     image: math,
-    repo: 'https://github.com/shaqdeff/Math-Magicians',
-    demo: 'https://inspiring-medovik-37d3b3.netlify.app/',
+    repo: '',
+    demo: '',
   },
   {
     id: 'project-4',
-    name: 'Movie Metro',
-    description: `A single-page application that allows users to search for any movie or show's ratings and its details.`,
+    name: 'Nanoknife',
+    description: `An application allowing for the searching of doctors via speciality, location, and other parameters, integrated with exceptions and permissions via API. Had custom email notifications.`,
     tags: [
       {
-        name: 'nextjs',
+        name: 'wordpress',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'php',
         color: 'green-text-gradient',
       },
       {
@@ -240,31 +240,31 @@ const projects = [
       },
     ],
     image: movie,
-    repo: 'https://github.com/shaqdeff/Movie-Metro',
-    demo: 'https://movie-metro.netlify.app/',
+    repo: '',
+    demo: '',
   },
   {
     id: 'project-5',
-    name: 'Nyeusi Fest Site',
+    name: 'Data Migration',
     description:
-      'This is a demo concert website for a music festival called Nyeusi.',
+      'Website needed to be migrated from an older version of Concrete CMS to Concrete 9. All data for almost 1k articles needed to be reformatted in a new database paradigm. New organizational mapping had to happen, endpoints created, and all type variations handled.',
     tags: [
       {
-        name: 'nextjs',
+        name: 'concrete',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'python',
         color: 'green-text-gradient',
       },
       {
-        name: 'css',
+        name: 'php',
         color: 'pink-text-gradient',
       },
     ],
     image: nyeusi,
-    repo: 'https://github.com/shaqdeff/Nyeusi-Fest-Site',
-    demo: 'https://shaqdeff.github.io/Nyeusi-Fest-Site/',
+    repo: '',
+    demo: '',
   },
 ];
 
