@@ -85,8 +85,8 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: 'Redux Toolkit',
-    icon: redux,
+    name: 'Angular JS',
+    icon: angular,
   },
   {
     name: 'Tailwind CSS',
@@ -97,28 +97,28 @@ const technologies = [
     icon: nodejs,
   },
   {
-    name: 'Rails',
-    icon: rubyrails,
+    name: 'Python',
+    icon: python,
   },
   {
-    name: 'graphql',
-    icon: graphql,
+    name: 'PHP',
+    icon: php,
   },
   {
-    name: 'postgresql',
-    icon: postgresql,
+    name: 'Flask',
+    icon: flask,
   },
   {
     name: 'git',
     icon: git,
   },
   {
-    name: 'figma',
-    icon: figma,
+    name: 'Django',
+    icon: django,
   },
   {
-    name: 'docker',
-    icon: docker,
+    name: 'C#',
+    icon: c#,
   },
 ];
 
