@@ -8,15 +8,15 @@ import {
   html,
   css,
   reactjs,
-  redux,
+  angularjs,
   tailwind,
   nodejs,
   git,
-  figma,
-  docker,
-  postgresql,
-  rubyrails,
-  graphql,
+  python,
+  php,
+  flask,
+  django,
+  csharp,
   komikult,
   leaderboard,
   math,
@@ -86,7 +86,7 @@ const technologies = [
   },
   {
     name: 'Angular JS',
-    icon: angular,
+    icon: angularjs,
   },
   {
     name: 'Tailwind CSS',
@@ -118,7 +118,7 @@ const technologies = [
   },
   {
     name: 'C#',
-    icon: c#,
+    icon: csharp,
   },
 ];
 
