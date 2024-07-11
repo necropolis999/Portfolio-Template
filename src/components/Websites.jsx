@@ -1,3 +1,5 @@
+import { afph, ellis, knife, mango, discover, nni } from '../assets';
+
 const projects = [
   {
     name: 'Website 1',
