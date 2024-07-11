@@ -25,7 +25,8 @@ const Navbar = () => {
             alt="logo"
             className="sm:w-[50px] sm:h-[50px] w-[45px] h-[45px] object-contain"
           />
-          <h1>Stephen</h1>
+          <h1 className={`text-eerieBlack hover:text-taupe text-[21px] font-medium font-mova 
+                uppercase tracking-[3px] cursor-pointer nav-links`}>Stephen Swartz</h1>
         </Link>
         <ul className="list-none hidden sm:flex flex-row gap-14 mt-2">
           {navLinks.map((nav) => (

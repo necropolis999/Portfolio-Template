@@ -50,8 +50,14 @@ import movie from './projects/movie-metro.png';
 import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
 
+import match from './projects/match.png';
+import newcountry from './projects/newcountry.png';
+import hospitality from './projects/hospitality.png';
+import nanoknife from './projects/nanoknife.png';
+import migration from './projects/migration.png';
+
 import afph from './websites/afph.png';
-import discover from './websites/dsicover.png';
+import discover from './websites/discover.png';
 import ellis from './websites/ellis.png';
 import nni from './websites/newnetherland.png';
 import knife from './websites/scarletknife.png';

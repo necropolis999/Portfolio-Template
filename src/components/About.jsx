@@ -37,12 +37,12 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis
-        sapiente ipsum dolorum dicta eaque cumque inventore molestias, beatae ea
-        quaerat alias accusamus voluptas autem! Alias odit voluptates in totam
-        vitae dignissimos minus eaque culpa unde tempore dolore aperiam
-        obcaecati voluptatum aliquam corrupti, suscipit accusamus! Odit unde
-        veniam dolorum ipsum doloribus.
+        I've been developing sites and applications for over a decade, 
+        working both in-house and freelance. I'm experienced with most 
+        content management systems, the most common frameworks (and some 
+        not so common ones), and more languages than you can count on your 
+        fingers. From the unique desires to standard needs, I can help you 
+        achieve your goals.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

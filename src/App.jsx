@@ -7,6 +7,7 @@ import {
   Navbar,
   Tech,
   Projects,
+  Websites,
 } from './components';
 
 const App = () => {
