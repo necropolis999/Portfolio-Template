@@ -1,3 +1,4 @@
+import { styles } from '../styles';
 
 const projects = [
   {
