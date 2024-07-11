@@ -1,4 +1,5 @@
 import { afph, ellis, knife, mango, discover, nni } from '../assets';
+import { styles } from '../styles';
 
 const projects = [
   {
@@ -46,7 +47,9 @@ const Portfolio = () => {
             />
             <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-50 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
               <div className="text-white text-center">
-                <a href={project.link} target="_blank">{project.name}</a>
+                <h2 className={styles.sectionHeadTextWhite}>
+                  <a href={project.link} target="_blank">{project.name}</a>
+                </h2>
               </div>
             </div>
           </div>

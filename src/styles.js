@@ -24,6 +24,8 @@ const styles = {
 
   sectionHeadText:
     'text-eerieBlack font-black md:text-[60px] sm:text-[48px] xs:text-[40px] text-[30px] font-poppins',
+  sectionHeadTextWhite:
+    'text-flashWhite font-black md:text-[60px] sm:text-[48px] xs:text-[40px] text-[30px] font-beckman',
   sectionHeadTextLight:
     'text-timberWolf font-black md:text-[60px] sm:text-[48px] xs:text-[40px] text-[30px] font-poppins',
   sectionSubText:

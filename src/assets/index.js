@@ -50,11 +50,11 @@ import movie from './projects/movie-metro.png';
 import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
 
-import match from './projects/match.png';
-import newcountry from './projects/newcountry.png';
-import hospitality from './projects/hospitality.png';
-import nanoknife from './projects/nanoknife.png';
-import migration from './projects/migration.png';
+import match from './projects/match.webp';
+import newcountry from './projects/newcountry.webp';
+import hospitality from './projects/hospitality.webp';
+import nanoknife from './projects/nanoknife.webp';
+import migration from './projects/migration.webp';
 
 import afph from './websites/afph.png';
 import discover from './websites/discover.png';
@@ -64,6 +64,11 @@ import knife from './websites/scarletknife.png';
 import mango from './websites/scarletmango.png';
 
 export {
+  match,
+  newcountry,
+  hospitality,
+  nanoknife,
+  migration,
   afph,
   discover,
   ellis,
