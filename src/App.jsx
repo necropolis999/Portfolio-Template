@@ -28,6 +28,8 @@ const App = () => {
 
         <Projects />
 
+        <Websites />
+
         <div
           className="bg-experience bg-cover bg-center bg-no-repeat 
             rounded-tl-[150px] rounded-br-[150px]">
