@@ -50,7 +50,20 @@ import movie from './projects/movie-metro.png';
 import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
 
+import afph from './websites/afph.png';
+import discover from './websites/dsicover.png';
+import ellis from './websites/ellis.png';
+import nni from './websites/newnetherland.png';
+import knife from './websites/scarletknife.png';
+import mango from './websites/scarletmango.png';
+
 export {
+  afph,
+  discover,
+  ellis,
+  nni,
+  knife,
+  mango,
   bwmap,
   nairobi,
   whiteabstract,
