@@ -1,5 +1,3 @@
-import { styles } from '../styles';
-
 const projects = [
   {
     name: 'Website 1',
@@ -21,7 +19,7 @@ const Portfolio = () => {
         <div key={index} className="w-1/3 p-2">
           <div className="relative group">
             <img
-              src={project.imgSrcBW}
+              src={project.imgSrcColor}
               alt={project.name}
               className="w-full grayscale transition-all duration-300 ease-in-out group-hover:grayscale-0"
             />
@@ -38,4 +36,3 @@ const Portfolio = () => {
 };
 
 export default Portfolio;
-
