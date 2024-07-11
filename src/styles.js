@@ -17,6 +17,9 @@ const styles = {
   paddingY: 'sm:py-16 py-6',
   padding: 'sm:px-16 px-6 sm:py-16 py-10',
 
+  grayscale: 'filter: grayscale(100%)',
+  grayscale-0: 'filter: grayscale(0%)',
+
   heroHeadText:
     'font-black text-eerieBlack lg:text-[80px] sm:text-[60px] xs:text-[50px] text-[40px] lg:leading-[90px] mt-2',
   heroSubText:
