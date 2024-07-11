@@ -1,5 +1,3 @@
-import React from 'react';
-import './Portfolio.css'; // Import the custom CSS for grayscale effect
 
 const projects = [
   {
