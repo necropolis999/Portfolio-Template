@@ -2,16 +2,29 @@ import { afph, ellis, knife, mango, discover, nni } from '../assets';
 
 const projects = [
   {
-    name: 'Website 1',
-    imgSrcBW: 'path-to-bw-image1.jpg', // Black and white image path
-    imgSrcColor: 'path-to-color-image1.jpg', // Color image path
+    name: 'Alliance for Positive Health',
+    imgSrcColor: afph,
   },
   {
-    name: 'Website 2',
-    imgSrcBW: 'path-to-bw-image2.jpg',
-    imgSrcColor: 'path-to-color-image2.jpg',
+    name: 'The Foundation for Ellis Medicine',
+    imgSrcColor: ellis,
   },
-  // Add more projects as needed
+  {
+    name: 'The Scarlet Knife',
+    imgSrcColor: knife,
+  },
+  {
+    name: 'The Scarlet Mango Inn',
+    imgSrcColor: mango,
+  },
+  {
+    name: 'Discover Rennsalaer',
+    imgSrcColor: discover,
+  },
+  {
+    name: 'The New Netherland Institute',
+    imgSrcColor: nni,
+  },
 ];
 
 const Portfolio = () => {
